@@ -1,4 +1,4 @@
-login-form
+Elvanto Login Form
 ==========
 
-HTML code to allow you to add a login form to your website.
+HTML code to allow you to add an Elvanto login form to your website. Replace [CHURCH_URL] with your Elvanto sub domain.
